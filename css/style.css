@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.badge {
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 20px;
+}
+
+.row {
+  margin: 10px;
+}
+
+
+.myBackground {
+  background: pink;
+  margin-top: 20px;
+}
+
+.text-warning, .text-success, .text-info {
+  padding-top: 10px;
+}
